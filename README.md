@@ -2,7 +2,7 @@
 By shubham mishra
 
 # INTRODUCTION
-This analysis consists of using big data tools to answer questions about datasets from Wikipedia. 
+#This analysis consists of using big data tools to answer questions about datasets from Wikipedia. 
 There are a series of analysis questions, answered using Hive and MapReduce. 
 The tools used are determined based on the context for each question.
 
