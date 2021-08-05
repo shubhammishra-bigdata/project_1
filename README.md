@@ -2,17 +2,17 @@
 By shubham mishra
 
 # INTRODUCTION
-#This analysis consists of using big data tools to answer questions about datasets from Wikipedia. 
+This analysis consists of using big data tools to answer questions about datasets from Wikipedia. 
 There are a series of analysis questions, answered using Hive and MapReduce. 
 The tools used are determined based on the context for each question.
 
 # TECHNOLOGY USED
-. HDFS
-. HIVE
-. MAP REDUCE
-. PYTHON
-. TEZ
-. HADOOP
+1.HDFS
+2.HIVE
+3.MAP REDUCE
+4.PYTHON
+5.TEZ
+6.HADOOP
 
 # PROBLEM STATEMENTS-
 QUESTION 1.
