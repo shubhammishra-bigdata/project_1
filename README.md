@@ -17,10 +17,13 @@ The tools used are determined based on the context for each question.
 # PROBLEM STATEMENTS-
 QUESTION 1.
 Which English wikipedia article got the most traffic on January 20, 2021?
+
 QUESTION 2.
 What English wikipedia article has the largest fraction of its readers follow an internal link to another wikipedia article?
+
 QUESTION 3.
-What series of wikipedia articles, starting with Hotel California, keeps the largest fraction of its readers clicking on internal links? 
+What series of wikipedia articles, starting with Hotel California, keeps the largest fraction of its readers clicking on internal links?
+
 QUESTION 4.
 Find an example of an English wikipedia article that is relatively more popular in the Americas than elsewhere.
 
